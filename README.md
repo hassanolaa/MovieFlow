@@ -1,6 +1,45 @@
-# movieapp
+<img src="https://github.com/hassanolaa/MovieFlow/blob/main/assets/images/logo2.png" width="400" height="350/">
 
-A new Flutter project.
+# MovieFlow
+<h3>Movies Flutter Mobile App Using Rest API</h3>
+
+
+## 🎦 Project Screenshots
+<div>
+<img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/Pixel%20True%20Mockup%20(2).png" alt="project-screenshot" width="200" height="250/">
+
+<img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/Pixel%20True%20Mockup%20(1).png" alt="project-screenshot" width="200" height="250/">
+
+<img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/mockuper%20(1).png" width="200" height="250/">
+</div>
+
+<div>
+<img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/mockuper%20(1).png" width="200" height="250">
+<img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/mockuper.png" width="200" height="250">
+<img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/mockuper%20(2).png" width="400" height="350">
+  
+</div> 
+
+## 🧐 Features
+
+Here're some of the project's best features:
+
+*   Offline Local Task App
+*   Mobile Responsive And Animated App
+*   Local Scheduled Notifications
+*   Splash Screen
+*   On Boarding Screens
+*   Show Case
+*   Smart Dialog
+*   Customized App Icon
+*   Customized App Name
+
+  ## 💻 Built with
+
+Technologies used in the project:
+
+*   Flutter
+*   dart
 
 ## Getting Started
 
