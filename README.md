@@ -14,7 +14,7 @@
 </div>
 
 <div>
-<img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/mockuper%20(1).png" width="200" height="250">
+<img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/Pixel%20True%20Mockup.png" width="200" height="250">
 <img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/mockuper.png" width="200" height="250">
 <img src="https://github.com/hassanolaa/MovieFlow/blob/main/ScreenShots/mockuper%20(2).png" width="400" height="350">
   
